@@ -60,35 +60,29 @@ learn-php/
 ├── 09-error-handling/   # Exception handling
 ├── 10-file-handling/    # File operations
 ├── projects/            # Mini projects
-│   ├── calculator.php
-│   ├── todo-list/
-│   └── blog-system/
-└── utils/               # Helper files
-    ├── config.php
-    └── helpers.php
 ```
 
 ## 🚀 Learning Path
 
-### **Level 1: Foundations** (Weeks 1-2)
+### **Level 1: Foundations**
 - PHP syntax and basics
 - Variables and data types
 - Operators and expressions
 - Control structures (if, switch, loops)
 
-### **Level 2: Core Concepts** (Weeks 3-4)
+### **Level 2: Core Concepts** 
 - Functions and scope
 - Arrays and array functions
 - String manipulation
 - Superglobals ($_GET, $_POST, $_SESSION)
 
-### **Level 3: Intermediate** (Weeks 5-6)
+### **Level 3: Intermediate** 
 - Object-Oriented Programming
 - File handling
 - Error and exception handling
 - Form validation
 
-### **Level 4: Advanced** (Weeks 7-8)
+### **Level 4: Advanced**
 - Database operations (PDO, MySQLi)
 - Authentication and authorization
 - REST API basics
@@ -157,13 +151,6 @@ php 01-basics/variables.php
 3. Modify examples to experiment with different outcomes
 4. Create your own variations of the examples
 
-### For Reviewers
-- Each file is self-contained and can be reviewed independently
-- Comments explain learning objectives and key takeaways
-- Code follows consistent formatting and commenting style
-
-### For Contributors
-See [Contributing Guidelines](#contributing)
 
 ## 📝 Topics Covered
 
@@ -183,12 +170,6 @@ See [Contributing Guidelines](#contributing)
 - [ ] Design Patterns
 - [ ] API Development
 - [ ] Testing (PHPUnit)
-
-### 📅 **Planned**
-- [ ] Laravel Basics
-- [ ] Composer and Dependency Management
-- [ ] PHP Frameworks Comparison
-- [ ] Performance Optimization
 
 
 ## 🤝 Contributing
@@ -235,10 +216,6 @@ git push origin feature/new-example
 - [XAMPP](https://www.apachefriends.org/) - Local PHP environment
 - [PHPStorm](https://www.jetbrains.com/phpstorm/) - PHP IDE
 
-### Books
-- "PHP & MySQL: Server-side Web Development" by Jon Duckett
-- "Modern PHP" by Josh Lockhart
-- "PHP Objects, Patterns, and Practice" by Matt Zandstra
 
 ## 📄 License
 
